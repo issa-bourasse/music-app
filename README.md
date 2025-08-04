@@ -62,6 +62,7 @@ echo "REACT_APP_DEEZER_API_KEY=your_api_key_here" > .env.local
 
 # Start development server
 npm start
+
 Project Structure 📂
 text
 music-app/
